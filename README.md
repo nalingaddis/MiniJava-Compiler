@@ -10,6 +10,6 @@ The final assignment for my Compilers course, COMP 520. This compiler for a subs
 * Complex statement and expression declarations
 
 ## Testing It Out
-1. Compiler and run `src/miniJava/Compiler.java`
+1. Compile and run `src/miniJava/Compiler.java`
 2. Provide the file `Demo.java` as a command line argument
 3. Change the boolean flags in `src/miniJava/Compiler.java` to see debugging capabilities
