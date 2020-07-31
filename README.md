@@ -13,3 +13,6 @@ The final assignment for my Compilers course, COMP 520. This compiler for a subs
 1. Compile and run `src/miniJava/Compiler.java`
 2. Provide the file `Demo.java` as a command line argument
 3. Change the boolean flags in `src/miniJava/Compiler.java` to see debugging capabilities
+  * `DEBUG_TOOLS` compiler with debug symbols
+  * `DISPLAY_AST` with print the abstract syntax tree to the console
+  * `DEBUG` will execute `Demo.java` in debug mode
